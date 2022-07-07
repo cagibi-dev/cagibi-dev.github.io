@@ -3,7 +3,7 @@
 "name": "Plouffe the Game",
 "short_name": "Plouffe",
 "lang": "fr",
-"start_url": ".",
+"start_url": "https://cagibi-dev.github.io/plouffe",
 "display": "standalone",
 "background_color": "#336",
 "description": "Jeu textuel d'aventure dans lequel c't'exactement ça.",
